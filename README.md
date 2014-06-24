@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/secure-pipeline/rails-travis-example.svg?branch=master)](https://travis-ci.org/secure-pipeline/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
+[![Build Status](https://travis-ci.org/dooolittle/rails-travis-example.svg)](https://travis-ci.org/dooolittle/rails-travis-example)
 
 # Rails Travis Example
 
